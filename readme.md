@@ -30,4 +30,4 @@ To create a **trustless, user-centric identity ecosystem** where individuals hav
 ---
 
 ## 🧱 Project Structure
-comtract adress 0x3b42009F73fD64373b437242508660dDc43771d9
+contract adress 0x3b42009F73fD64373b437242508660dDc43771d9
